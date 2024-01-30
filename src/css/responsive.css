@@ -1,0 +1,63 @@
+@media (max-width: 500px) {
+
+    .cabecalho {
+        justify-content: center;
+        flex-direction: column;
+        padding: 50px 0;
+        gap: 15px;
+    }
+
+    .cabecalho .menu li a {
+        padding: 15px;
+    }
+
+
+   .cabecalho .logo{
+    flex-direction: column;
+    width: 150px;
+   }
+
+  .home .imagem-fundo{
+    width: 200%;
+  }
+
+   .home .informacoes{
+    padding: 30px;
+   }
+
+  .home .informacoes img{
+    max-width: 300px;
+  }
+
+.home .informacoes .titulo{
+    font-size: 16px;
+}
+ 
+.home .informacoes .texto{
+    font-size: 12px
+}
+
+.compre-ja .cartao{
+    width: 70%;
+}
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
